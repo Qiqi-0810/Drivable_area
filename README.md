@@ -19,7 +19,7 @@ It can be used in cmd as: python json_to_dataset.py E:\pathofyourjsondata
 
 # Getting started
 ## Training, valisating and test
-The whole process of training and upload required files are done in Colab files []()
+The whole process of training and upload required files are done in Colab files [MANet](https://github.com/Qiqi-0810/Drivable_area/blob/f1cface26ffbdfe484f336cbd53b6000663db231/MANet.ipynb) and [MDNet](https://github.com/Qiqi-0810/Drivable_area/blob/f1cface26ffbdfe484f336cbd53b6000663db231/MDSNet.ipynb)
 ## Dataset
 Dataset can be downloaded from Berkeley Driving Dataset. There are 70k training images, 10k validation images and 20k test images. These should be copied in the following path
 The whole dataset structure is like below:
