@@ -65,3 +65,4 @@ model = dict(
 ```
 * You can always import a packaged module from mmcv.cnn or mmseg to reduce the amount of code.
 * Never forget to register the module you designed and import it in file `mmseg/models/decode_heads/_init_.py
+* If you meet some error related to CUDA error, remember to check your class number, label value and config files
