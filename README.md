@@ -18,7 +18,7 @@ It can be used in cmd as: python json_to_dataset.py E:\pathofyourjsondata
 * Change label format to P mode if needed (Optional， It can also be used to change the bit depth of the image. It also includes putting the palette into a png tag file for coloring) [image_format](https://github.com/Qiqi-0810/Drivable_area/blob/8b6ab833d52937251272ddbb032f23f69f141aad/image_format.ipynb)
 
 # Getting started
-## Training, valisating and test
+## Training, validating and test
 The whole process of training and upload required files are done in Colab files [MANet](https://github.com/Qiqi-0810/Drivable_area/blob/f1cface26ffbdfe484f336cbd53b6000663db231/MANet.ipynb) and [MDNet](https://github.com/Qiqi-0810/Drivable_area/blob/f1cface26ffbdfe484f336cbd53b6000663db231/MDSNet.ipynb)
 ## Dataset
 Dataset can be downloaded from Berkeley Driving Dataset. There are 70k training images, 10k validation images and 20k test images. These should be copied in the following path
